@@ -21,7 +21,7 @@ I show some examples of connectivity.
 
 ![Imagen de evidencia1 Postman](images/postmanHW.png)
 
-![Imagen de evidencia2 Postman](images/postomanAPI.png)
+![Imagen de evidencia2 Postman](images/postmanAPI.png)
 
 ![Imagen de evidencia3 Postman](images/postmanJson.png)
 
