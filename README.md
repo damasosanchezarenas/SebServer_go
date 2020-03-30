@@ -7,7 +7,7 @@ To do this, using a REST API we managed to create a client-server connection.
 In this server we check that the EndPoint is valid and that the Rest request that we generate 
 can be given in the corresponding path.
 
-![Imagen del Main](https://github.com/damasosanchezarenas/WebServer_go.git/main.png)
+![Imagen del Main](https://raw.github.com/damasosanchezarenas/WebServer_go.git/main.png)
 
 In addition we have several middleware:
 
