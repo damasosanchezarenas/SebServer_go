@@ -15,9 +15,9 @@ In addition we have several middleware:
 
 2. We check that the login was successful.
 
-For testing we use Postman.
+For testing we can use Postman or our Localhost:3000.
 
-I show some examples of connectivity.
+I show some examples of connectivity with Postman.
 
 ![Imagen de evidencia1 Postman](images/postmanHW.png)
 
